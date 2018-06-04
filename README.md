@@ -1,2 +1,2 @@
 # Graph
-Graph implementation for Data Structures Subject
+Graph implementation with Dijkstra for Data Structures Subject
